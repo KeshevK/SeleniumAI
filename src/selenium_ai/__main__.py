@@ -1,5 +1,5 @@
 import sys
-from selenium_ai.cli import main  # noqa
+from .cli import main  # noqa
 
 
 if __name__ == "__main__":

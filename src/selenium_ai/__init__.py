@@ -2,6 +2,6 @@
 
 __author__ = """Keshev Kulkarni"""
 __email__ = 'localized.analytics@gmail.com'
-__version__ = '0.1.0'
+__version__ = '0.1.2'
 
-from .element_finder import ElementFinder
+from .ElementFinder import ElementFinder
